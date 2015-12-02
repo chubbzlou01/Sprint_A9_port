@@ -1,0 +1,8 @@
+﻿ROM Build ID: 3031373
+ROM Name: Sprint WWE ROM
+SKU ID: 71523, SKU Name: Sprint Chameleon ROM default, CID: default, MNS: default
+SKU ID: 71522, SKU Name: BOOST CID (animation only), CID: BOOST000, MNS: NA
+SKU ID: 71525, SKU Name: Sprint Prepaid CID (animation only), CID: PREPAID0, MNS: NA
+SKU ID: 71524, SKU Name: SPRINT CID (animation only), CID: SPRINT00, MNS: NA
+SKU ID: 71526, SKU Name: VM CID (animation only), CID: VM000000, MNS: NA
+Datetime: 2015/10/09 13:40:25
